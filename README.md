@@ -1,6 +1,26 @@
 ## Sobre
 Front-end de aplicativo *react-native* que gerencia entrega de kits, realiza cadastro de convidados e cadastro de ingressos para multiplos eventos.
-## Algumas das telas
+### 📁 Estrutura do Projeto
+
+src/api/ – Configuração e integração com API (requisições HTTP e serviços externos)
+
+src/components/ – Componentes reutilizáveis da interface
+
+src/constants/ – Constantes globais da aplicação
+
+src/context/ – Context API para gerenciamento de estado global
+
+src/drawerScreens/ – Telas vinculadas ao menu Drawer
+
+src/helpers/ – Funções utilitárias e auxiliares
+
+src/navigators/ – Configuração das navegações (Stack, Drawer, etc.)
+
+src/realm/ – Configuração e modelos do banco de dados local (Realm)
+
+src/screens/ – Telas principais da aplicação
+
+src/style/ – Arquivos de estilização globais
 _____________________________________________________________________________________________________________________________
 
 <div style="background-color: black; display: flex; justify-content: space-between; align-items: center;">
